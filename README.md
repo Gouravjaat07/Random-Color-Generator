@@ -2,9 +2,9 @@
 
 A simple and visually appealing web app that generates random RGB colors at the click of a button. Built using HTML, CSS, and JavaScript.
 
-📸 Preview
+📸 Demo
 
-![Generate Color](https://github.com/user-attachments/assets/cbb5c683-2451-4334-bdcb-de7345823ee7)
+https://github.com/user-attachments/assets/43739564-c59e-42a2-adb5-0ed81108ae2b
 
 🚀 Features
 
